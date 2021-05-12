@@ -7,7 +7,7 @@
 
 ## 🛠 Мой стек
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v2.png"/> <img src="https://img.icons8.com/nolan/64/react-native.png"/> <img src="https://img.icons8.com/dusk/64/000000/webpack.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v2.png"/> <img src="https://img.icons8.com/nolan/64/react-native.png"/> <img src="https://img.icons8.com/dusk/64/000000/webpack.png"/> <img src="https://img.icons8.com/nolan/64/api-settings.png"/>
 
 ## 🔥 И немного статистики
  ### ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaLisitsyn&theme=blue-green)
