@@ -14,6 +14,7 @@
 5. React.
 6. Redux.
 7. Webpack.
+8. Jest.
 
 ## 🔥 И немного статистики
  ### ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaLisitsyn&theme=blue-green)
